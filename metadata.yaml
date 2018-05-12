@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4313
     wikipedia: http://en.wikipedia.org/wiki/Scott_Nearing
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20666#The-Debs-Decision
 gutenberg_bookshelf: Noteworthy Trials(Bookshelf)
 gutenberg_issued: '2007-02-25'
 gutenberg_type: Text
