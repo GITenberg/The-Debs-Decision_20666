@@ -1,0 +1,29 @@
+_repo: The-Debs-Decision_20666
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nearing, Scott
+    birthdate: 1883
+    deathdate: 1983
+    gutenberg_agent_id: '4313'
+    url: http://www.gutenberg.org/2009/agents/4313
+    wikipedia: http://en.wikipedia.org/wiki/Scott_Nearing
+description: ''
+gutenberg_bookshelf: Noteworthy Trials(Bookshelf)
+gutenberg_issued: '2007-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20666'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HX'
+- !lcsh 'Debs, Eugene V. (Eugene Victor), 1855-1926'
+- !lcsh 'United States. Supreme Court'
+title: The Debs Decision
+url: http://www.gutenberg.org/ebooks/20666
